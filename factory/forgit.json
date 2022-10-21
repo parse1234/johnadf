@@ -1,0 +1,9 @@
+{
+	"name": "forgit",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e6ef2174-96a0-4aaf-ac92-b9998c5f0759",
+		"tenantId": "b60d926a-3bfd-4074-b300-7f9bdfba4907"
+	}
+}
